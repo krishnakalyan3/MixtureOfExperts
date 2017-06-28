@@ -1,3 +1,3 @@
 # Mixture Of Experts
 
-![MoE](plots/gater.png | width=100)
+![MoE](plots/gater.png)
