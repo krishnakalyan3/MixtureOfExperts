@@ -25,5 +25,5 @@ SNo.| Experiment | Train Error | Test Error | Seq| Par | Comments
 5 | Gater MLP | 17.27 | 17.66 | [137](https://github.com/krishnakalyan3/Scripts/blob/master/Thesis/logs/forest_gater_mlp.txt) | 
 
 
-[Loss Curves](plots/forest/fig2.png)
-[Expert Improvement](plots/forest/fig1.png)
+![Loss Curves](plots/forest/fig2.png)
+![Expert Improvement](plots/forest/fig1.png)
