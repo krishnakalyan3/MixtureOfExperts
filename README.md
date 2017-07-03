@@ -13,7 +13,8 @@ In the paper the author proposes and new approch to scale SVM (almost linear tim
 - Termination Condition : Validation Error goes up or Number of iterations
 - [Configuration](https://github.com/krishnakalyan3/Scripts/blob/master/Thesis/logs/forest.txt)
 - [Notebook](https://github.com/krishnakalyan3/Scripts/blob/master/Thesis/notebooks/Forest.ipynb)
-- [Code](https://github.com/krishnakalyan3/MixtureOfExperts/code/forest)
+- [Code](https://github.com/krishnakalyan3/MixtureOfExperts/tree/master/code/forest)
+- [Grid Search](https://github.com/krishnakalyan3/MixtureOfExperts/tree/master/forest_gs.md)
 
 SNo.| Experiment | Train Error | Test Error | Seq| Par | Comments
 --- | --- | --- | --- | --- | --- | ---
