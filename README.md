@@ -1,3 +1,3 @@
 # Mixture Of Experts
 
-![MoE](plots/gater.png =100x20)
+![MoE](plots/gater.png | height = 100px)
