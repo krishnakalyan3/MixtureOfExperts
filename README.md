@@ -14,7 +14,7 @@ In the paper the author proposes and new approch to scale SVM (almost linear tim
 - [Configuration](https://github.com/krishnakalyan3/Scripts/blob/master/Thesis/logs/forest.txt)
 - [Notebook](https://github.com/krishnakalyan3/Scripts/blob/master/Thesis/notebooks/Forest.ipynb)
 - [Code](https://github.com/krishnakalyan3/MixtureOfExperts/tree/master/code/forest)
-- [Grid Search](https://github.com/krishnakalyan3/MixtureOfExperts/tree/master/forest_gs.md)
+- [Grid Search Results](https://github.com/krishnakalyan3/MixtureOfExperts/tree/master/forest_gs.md)
 
 SNo.| Experiment | Train Error | Test Error | Seq| Par | Comments
 --- | --- | --- | --- | --- | --- | ---
@@ -25,3 +25,5 @@ SNo.| Experiment | Train Error | Test Error | Seq| Par | Comments
 5 | Gater MLP | 17.27 | 17.66 | [137](https://github.com/krishnakalyan3/Scripts/blob/master/Thesis/logs/forest_gater_mlp.txt) | 
 
 
+[Loss Curves](plots/forest/fig2.png)
+[Expert Improvement](plots/forest/fig1.png)
