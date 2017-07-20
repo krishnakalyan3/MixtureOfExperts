@@ -28,3 +28,7 @@ SNo.| Experiment | Train Error | Test Error | Seq| Par | Comments
 
 ![Loss Curves](plots/forest/fig2.png)
 ![Expert Improvement](plots/forest/fig1.png)
+
+
+# Conclusion
+We already highlighted the need for more data to train experts. For MLP as experts we observed convergence within 3 iterations mostly. Also Plot 8.3 showed us there is almost a linear decrease in error as the number of training observations increase. Despite these issues we observe that our MoE and subset of labels have a comparable performance to uniform ensemble of CNN trained on complete data. Subset of labels does a better job than MoE in all the experiments because of the advantage of having more data.
