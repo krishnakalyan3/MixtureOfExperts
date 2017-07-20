@@ -1,0 +1,40 @@
+INFO:root:##### NEW EXPERIMENT_1497117930.2220213_#####
+INFO:root:Train (40000, 32, 32, 3)
+INFO:root:Val (10000, 32, 32, 3)
+INFO:root:Test (10000, 32, 32, 3)
+INFO:root:Training Error, Val Error, Test Error
+INFO:root:1.617500000000005, 27.32, 27.33
+INFO:root:Time Taken 23.318600296974182
+INFO:root:##### EXPERIMENT COMPLETE #####
+INFO:root:##### NEW EXPERIMENT_1497117935.2183943_#####
+INFO:root:Train (40000, 32, 32, 3)
+INFO:root:Val (10000, 32, 32, 3)
+INFO:root:Test (10000, 32, 32, 3)
+INFO:root:Training Error, Val Error, Test Error
+INFO:root:0.934999999999997, 26.74, 26.32
+INFO:root:Time Taken 19.935239843527476
+INFO:root:##### EXPERIMENT COMPLETE #####
+INFO:root:##### NEW EXPERIMENT_1497117942.7003481_#####
+INFO:root:Train (40000, 32, 32, 3)
+INFO:root:Val (10000, 32, 32, 3)
+INFO:root:Test (10000, 32, 32, 3)
+INFO:root:Training Error, Val Error, Test Error
+INFO:root:2.187499999999998, 27.259999999999994, 26.790000000000003
+INFO:root:Time Taken 19.738972183068594
+INFO:root:##### EXPERIMENT COMPLETE #####
+INFO:root:##### NEW EXPERIMENT_1497118002.8459675_#####
+INFO:root:Train (40000, 32, 32, 3)
+INFO:root:Val (10000, 32, 32, 3)
+INFO:root:Test (10000, 32, 32, 3)
+INFO:root:Training Error, Val Error, Test Error
+INFO:root:1.1299999999999977, 27.680000000000003, 27.43
+INFO:root:Time Taken 19.84863903125127
+INFO:root:##### EXPERIMENT COMPLETE #####
+INFO:root:##### NEW EXPERIMENT_1497118002.8464599_#####
+INFO:root:Train (40000, 32, 32, 3)
+INFO:root:Val (10000, 32, 32, 3)
+INFO:root:Test (10000, 32, 32, 3)
+INFO:root:Training Error, Val Error, Test Error
+INFO:root:1.2125000000000052, 26.060000000000006, 26.359999999999996
+INFO:root:Time Taken 19.848616309960683
+INFO:root:##### EXPERIMENT COMPLETE #####
