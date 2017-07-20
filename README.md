@@ -29,6 +29,18 @@ SNo.| Experiment | Train Error | Test Error | Seq| Par | Comments
 ![Loss Curves](plots/forest/fig2.png)
 ![Expert Improvement](plots/forest/fig1.png)
 
+## Multiclass MLPs
+Now we replace our experts with MLP. We use a modified version of LeNet as described below.
+![LeNet 5](plots/forest/lenet.png)
+
+## Datasets
+Dataset used in our experiments can be seen below.
+![Data Set](plots/forest/data_used.png)
+
+## Results for CIFAR10
+We consider Uniform CNN split as our baseline since since each expert gets 1/10 of the data. Uniform CNN as out gold standard as all expoers get all the data
+. Our MOE do suprising well on our data set even when these expert only recieve 1/10 of the data.
+![Cifar 10](plots/forest/cifar10.png)
 
 # Conclusion
 We already highlighted the need for more data to train experts. For MLP as experts we observed convergence within 3 iterations mostly. Also Plot 8.3 showed us there is almost a linear decrease in error as the number of training observations increase. Despite these issues we observe that our MoE and subset of labels have a comparable performance to uniform ensemble of CNN trained on complete data. Subset of labels does a better job than MoE in all the experiments because of the advantage of having more data.
