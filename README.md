@@ -40,7 +40,7 @@ Dataset used in our experiments can be seen below.
 ![Data Set](plots/data_used.png)
 
 ## Results for CIFAR10
-We consider Uniform CNN split as our baseline since since each expert gets 1/10 of the data. Uniform CNN as out gold standard as all expoers get all the data
+We consider Uniform CNN split as our baseline since since each expert gets 1/10 of the data. Uniform CNN as our gold standard as all expoers get all the data
 . Our MOE do suprising well on our data set even when these expert only recieve 1/10 of the data.
 
 ![Cifar 10](plots/cifar10.png)
